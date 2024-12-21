@@ -1,0 +1,14 @@
+{
+    "name": "Library_db",
+    "description": "Simple PHP project using PDO to interact with a library database",
+    "type": "project",
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.4"
+    }
+  }
+  
